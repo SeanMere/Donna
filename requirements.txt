@@ -1,0 +1,8 @@
+SpeechRecognition
+spacy
+ytmusicapi
+python-vlc
+pafy
+youtube-dl
+pyttsx3
+PyAudio
